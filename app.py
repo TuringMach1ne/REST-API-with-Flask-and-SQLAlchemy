@@ -1,6 +1,6 @@
 '''
     A simple Rest API demonstration coded from scratch using Flask and Restx
-    @author:Eray Ercan
+    @author:TuringMach1ne
 '''
 
 #Importing the required libraries
